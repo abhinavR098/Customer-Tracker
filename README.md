@@ -1,4 +1,3 @@
 # Customer-Tracker
-This Project was done as part of learning basics of Spring MVC and Hibernate
-This is a basic DB table of customers in which we can do CRUD operations
+This is a basic DB table for customers in which we can do CRUD operations.This project was done inorder to understand the working of Spring MVC and Hibernate.
 Done on Nov 5th 2022
